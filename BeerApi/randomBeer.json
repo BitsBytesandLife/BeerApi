@@ -1,0 +1,41 @@
+{
+  "message": "READ ONLY MODE: Request Successful",
+  "data": {
+    "id": "S9QxGf",
+    "name": "Myron's Walk - Beer Camp Across America",
+    "nameDisplay": "Myron's Walk - Beer Camp Across America (2014)",
+    "abv": "5.3",
+    "ibu": "38",
+    "styleId": 62,
+    "isRetired": "N",
+    "year": 2014,
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2014-06-10 12:25:29",
+    "updateDate": "2018-11-02 02:15:14",
+    "style": {
+      "id": 62,
+      "categoryId": 5,
+      "category": {
+        "id": 5,
+        "name": "Belgian And French Origin Ales",
+        "createDate": "2012-03-21 20:06:46"
+      },
+      "name": "Belgian-Style Pale Ale",
+      "shortName": "Belgian Pale",
+      "description": "Belgian-style pale ales are characterized by low but noticeable hop bitterness, flavor, and aroma. Light to medium body and low malt aroma are typical. They are light amber to deep amber in color. Noble-type hops are commonly used. Low to medium fruity esters are evident in aroma and flavor. Low levels of phenolic spiciness from yeast byproducts may be perceived. Low caramel or toasted malt flavor is okay. Diacetyl should not be perceived. Chill haze is allowable at cold temperatures.",
+      "ibuMin": "20",
+      "ibuMax": "30",
+      "abvMin": "4",
+      "abvMax": "6",
+      "srmMin": "6",
+      "srmMax": "12",
+      "ogMin": "1.044",
+      "fgMin": "1.008",
+      "fgMax": "1.014",
+      "createDate": "2012-03-21 20:06:46",
+      "updateDate": "2015-04-07 15:32:06"
+    }
+  },
+  "status": "success"
+}
